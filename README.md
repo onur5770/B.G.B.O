@@ -35,3 +35,4 @@ pip install opencv-python mediapipe numpy screen-brightness-control pyautogui py
 ### ⚠️ Not
 
 Bu uygulama kamera erişimi ve sistem ayarlarını (ses/parlaklık) değiştirme yetkisi gerektirir. En iyi performans için iyi aydınlatılmış bir ortam önerilir.
+hxCTF{b0sa_g3cmemis_1_0mur}
